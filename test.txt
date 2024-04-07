@@ -1,1 +1,1 @@
-Text for Git practice 2. Some more text here.
+Text for Git practice 2. Some more text here. Just a little more text.
